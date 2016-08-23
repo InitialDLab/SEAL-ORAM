@@ -1,0 +1,15 @@
+.idea
+IBSOS_main
+TPORAM_main
+PathORAM_main
+BinaryORAM_main
+SRORAM_main
+HRORAM_main
+RecursivePathORAM_main
+RecursiveBinaryORAM_main
+RecursiveTPORAM_main
+CMakeFiles
+Makefile
+cmake_install.cmake
+CMakeCache.txt
+*.exe
