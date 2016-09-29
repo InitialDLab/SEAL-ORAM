@@ -26,5 +26,5 @@ Do `cmake .` first, then `make` and enjoy!
 
 ## Contacts
 Dong Xie: dongx [at] cs [dot] utah [dot] edu  
-Zhao Chang: zchang [at] cs [dot] utah [dot] edu
+Zhao Chang: zchang [at] cs [dot] utah [dot] edu  
 Feifei Li: lifeifei [at] cs [dot] utah [dot] edu
