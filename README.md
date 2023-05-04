@@ -2,7 +2,7 @@
 This is a unified testbed for evaluating different Oblivious RAM schemes. Specifically, we have implemented the following ORAM schemes:
 
 - [Basic Square Root](http://dl.acm.org/citation.cfm?id=28416)
-- [IBS OS](http://www.cs.utah.edu/~dongx/paper/psp-icde.pdf)
+- [IBS OS](https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/b/123163/files/2020/09/psp-icde.pdf)
 - [Towards Practical Oblivious RAM](http://arxiv.org/pdf/1106.3652.pdf)
 - [Binary Tree ORAM](https://eprint.iacr.org/2011/407.pdf)
 - [Path ORAM](https://people.csail.mit.edu/devadas/pubs/PathORam.pdf)
